@@ -1,0 +1,170 @@
+Release 14.2 - xst P.28xd (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.63 secs
+ 
+--> Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.64 secs
+ 
+--> Reading design: hope.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) Design Hierarchy Analysis
+  4) HDL Analysis
+  5) HDL Synthesis
+     5.1) HDL Synthesis Report
+  6) Advanced HDL Synthesis
+     6.1) Advanced HDL Synthesis Report
+  7) Low Level Synthesis
+  8) Partition Report
+  9) Final Report
+	9.1) Device utilization summary
+	9.2) Partition Resource Summary
+	9.3) TIMING REPORT
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "hope.prj"
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "hope"
+Output Format                      : NGC
+Target Device                      : xc3s100e-5-vq100
+
+---- Source Options
+Top Module Name                    : hope
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Mux Style                          : Auto
+Decoder Extraction                 : YES
+Priority Encoder Extraction        : Yes
+Shift Register Extraction          : YES
+Logical Shifter Extraction         : YES
+XOR Collapsing                     : YES
+ROM Style                          : Auto
+Mux Extraction                     : Yes
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Multiplier Style                   : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 24
+Register Duplication               : YES
+Slice Packing                      : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Yes
+Use Synchronous Set                : Yes
+Use Synchronous Reset              : Yes
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+Verilog 2001                       : YES
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "hope.v" in library work
+ERROR:HDLCompilers:26 - "hope.v" line 67 unexpected token: '''
+ERROR:HDLCompilers:26 - "hope.v" line 68 unexpected token: '''
+ERROR:HDLCompilers:28 - "hope.v" line 75 'start' has not been declared
+ERROR:HDLCompilers:26 - "hope.v" line 85 unexpected token: 'D1'
+ERROR:HDLCompilers:26 - "hope.v" line 86 expecting ';', found ':'
+ERROR:HDLCompilers:26 - "hope.v" line 86 expecting ':', found ';'
+ERROR:HDLCompilers:28 - "hope.v" line 90 'k' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 106 'next_State' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 142 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 146 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 150 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 154 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 158 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 162 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 166 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 170 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 174 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 178 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 182 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 186 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 190 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 194 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 198 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 202 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 206 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 210 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 214 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 218 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 222 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 226 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 230 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 234 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 238 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 242 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 246 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 250 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 254 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 258 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 262 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 266 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 270 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 274 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 278 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 282 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 286 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 290 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:28 - "hope.v" line 294 'cword_reg_bank' has not been declared
+ERROR:HDLCompilers:26 - "hope.v" line 302 expecting ')', found 'or'
+ERROR:HDLCompilers:26 - "hope.v" line 302 unexpected token: 'state'
+ERROR:HDLCompilers:26 - "hope.v" line 302 unexpected token: 'D2'
+ERROR:HDLCompilers:26 - "hope.v" line 304 expecting 'end', found 'else'
+ERROR:HDLCompilers:26 - "hope.v" line 305 unexpected token: '['
+Module <hope> compiled
+ERROR:HDLCompilers:26 - "hope.v" line 305 expecting 'endmodule', found '31'
+Analysis of file <"hope.prj"> failed.
+--> 
+
+Total memory usage is 4528356 kilobytes
+
+Number of errors   :   53 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

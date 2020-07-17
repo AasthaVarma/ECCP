@@ -1,0 +1,39 @@
+Running: C:\Xilinx\14.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o D:/drdo/test_project/test_krtsba_top_isim_beh.exe -prj D:/drdo/test_project/test_krtsba_top_beh.prj work.test_krtsba_top work.glbl 
+ISim P.28xd (signature 0xa0883be4)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/drdo/test_project/../Elliptic_curve_pro/krtsba_15.v" into library work
+Analyzing Verilog file "D:/drdo/test_project/../Elliptic_curve_pro/krtsba_14.v" into library work
+Analyzing Verilog file "D:/drdo/test_project/../Elliptic_curve_pro/krtsba_30.v" into library work
+Analyzing Verilog file "D:/drdo/test_project/../Elliptic_curve_pro/krtsba_29.v" into library work
+Analyzing Verilog file "D:/drdo/test_project/../Elliptic_curve_pro/krtsba_59.v" into library work
+Analyzing Verilog file "D:/drdo/test_project/../Elliptic_curve_pro/krtsba_58.v" into library work
+Analyzing Verilog file "D:/drdo/test_project/../Elliptic_curve_pro/krtsba_117.v" into library work
+Analyzing Verilog file "D:/drdo/test_project/../Elliptic_curve_pro/krtsba_116.v" into library work
+Analyzing Verilog file "D:/drdo/test_project/../Elliptic_curve_pro/mod465_to_233.v" into library work
+Analyzing Verilog file "D:/drdo/test_project/../Elliptic_curve_pro/krtsba_233.v" into library work
+Analyzing Verilog file "D:/drdo/test_project/../Elliptic_curve_pro/krtsba_mult_top.v" into library work
+Analyzing Verilog file "D:/drdo/test_project/../Elliptic_curve_pro/test_krtsba_top.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module krtsba_14
+Compiling module krtsba_15
+Compiling module krtsba_29
+Compiling module krtsba_58
+Compiling module krtsba_116
+Compiling module krtsba_30
+Compiling module krtsba_59
+Compiling module krtsba_117
+Compiling module krtsba_233
+Compiling module mod465_to_233
+Compiling module krtsba_mult_top
+Compiling module test_krtsba_top
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 13 Verilog Units
+Built simulation executable D:/drdo/test_project/test_krtsba_top_isim_beh.exe
+Fuse Memory Usage: 43464 KB
+Fuse CPU Usage: 1202 ms
