@@ -1,0 +1,29 @@
+Command line:
+   test_krtsba_top_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55240
+
+Thu Sep 19 11:52:31 2019
+
+
+ Elaboration Time: 0.109375 sec
+
+ Current Memory Usage: 5233.65 Meg
+
+ Total Signals          : 10018
+ Total Nets             : 18144
+ Total Signal Drivers   : 15878
+ Total Blocks           : 125
+ Total Primitive Blocks : 83
+ Total Processes        : 15880
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 18690
+Total Line Count : 15888
+
+ Total Simulation Time: 0.140625 sec
+
+ Current Memory Usage: 5233.65 Meg
+
+Thu Sep 19 11:52:44 2019
+

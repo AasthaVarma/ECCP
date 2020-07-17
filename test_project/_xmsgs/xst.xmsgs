@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompilers" num="26" delta="old" >&quot;<arg fmt="%s" index="1">hope.v</arg>&quot; line <arg fmt="%d" index="2">67</arg> <arg fmt="%s" index="3">unexpected token: &apos;&apos;&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="old" >&quot;<arg fmt="%s" index="1">hope.v</arg>&quot; line <arg fmt="%d" index="2">68</arg> <arg fmt="%s" index="3">unexpected token: &apos;&apos;&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 75 </arg>&apos;<arg fmt="%s" index="2">start</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="old" >&quot;<arg fmt="%s" index="1">hope.v</arg>&quot; line <arg fmt="%d" index="2">85</arg> <arg fmt="%s" index="3">unexpected token: &apos;D1&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="old" >&quot;<arg fmt="%s" index="1">hope.v</arg>&quot; line <arg fmt="%d" index="2">86</arg> <arg fmt="%s" index="3">expecting &apos;;&apos;, found &apos;:&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="old" >&quot;<arg fmt="%s" index="1">hope.v</arg>&quot; line <arg fmt="%d" index="2">86</arg> <arg fmt="%s" index="3">expecting &apos;:&apos;, found &apos;;&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 90 </arg>&apos;<arg fmt="%s" index="2">k</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 106 </arg>&apos;<arg fmt="%s" index="2">next_State</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 142 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 146 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 150 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 154 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 158 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 162 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 166 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 170 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 174 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 178 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 182 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 186 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 190 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 194 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 198 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 202 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 206 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 210 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 214 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 218 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 222 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 226 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 230 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 234 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 238 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 242 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 246 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 250 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 254 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 258 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 262 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 266 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 270 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 274 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 278 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 282 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 286 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 290 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="old" ><arg fmt="%s" index="1">&quot;hope.v&quot; line 294 </arg>&apos;<arg fmt="%s" index="2">cword_reg_bank</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="old" >&quot;<arg fmt="%s" index="1">hope.v</arg>&quot; line <arg fmt="%d" index="2">302</arg> <arg fmt="%s" index="3">expecting &apos;)&apos;, found &apos;or&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="old" >&quot;<arg fmt="%s" index="1">hope.v</arg>&quot; line <arg fmt="%d" index="2">302</arg> <arg fmt="%s" index="3">unexpected token: &apos;state&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="old" >&quot;<arg fmt="%s" index="1">hope.v</arg>&quot; line <arg fmt="%d" index="2">302</arg> <arg fmt="%s" index="3">unexpected token: &apos;D2&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="old" >&quot;<arg fmt="%s" index="1">hope.v</arg>&quot; line <arg fmt="%d" index="2">304</arg> <arg fmt="%s" index="3">expecting &apos;end&apos;, found &apos;else&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="old" >&quot;<arg fmt="%s" index="1">hope.v</arg>&quot; line <arg fmt="%d" index="2">305</arg> <arg fmt="%s" index="3">unexpected token: &apos;[&apos;</arg>
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="old" >&quot;<arg fmt="%s" index="1">hope.v</arg>&quot; line <arg fmt="%d" index="2">305</arg> <arg fmt="%s" index="3">expecting &apos;endmodule&apos;, found &apos;31&apos;</arg>
+</msg>
+
+</messages>
+
